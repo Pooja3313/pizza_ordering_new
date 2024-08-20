@@ -1,0 +1,15 @@
+#cart{
+    margin-bottom: 50px;
+    min-height: 100vh;
+}
+
+#card-cart{
+    min-height: 100vh;
+   justify-content: center;
+   align-items: center;
+}
+
+
+#yourcartQuantity{
+    width:10%;
+}
